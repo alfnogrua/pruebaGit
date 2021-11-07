@@ -62,3 +62,4 @@ git merge Desarrollo
 ----------------------------------------------------------------------------------
 git -am "otra version "//este se puede hacer cuando ya el archivo existe
 
+--------------------------------------------------------------------------------git che
