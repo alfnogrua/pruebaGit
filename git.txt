@@ -1,0 +1,57 @@
+Azure DevOps Parallelism Request (office.com)                   *
+                                                                *  
+git --version                                                   *
+                                                                *
+git config --global user.name "John                             *  
+                                                                *  
+$ git config --global user.email alfnogrua@hotmail.com          * 
+
+git init 
+
+COMANDOS DE INICIALIZACION DE GIT
+-----------------------------------------------------------------
+
+
+ls-la   ----> PAra ver los archivos dentro del proyecto o carpeta donde estas
+
+git status
+
+git add prueba.txt//para el ejemplo si es un proyecto con varios archivos seria--> git add.
+
+git commit -m "comentario" para aderir un comit o una version nueva"
+
+git log --online
+
+
+
+git checkout codigo-del-commit
+
+
+
+https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211019_090604-Grabación de la reunión.mp4
+
+https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211020_091357-Grabación de la reunión.mp4
+
+https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211021_090625-Grabación de la reunión.mp4
+
+https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211022_090904-Grabación de la reunión.mp4
+
+
+RAMAS-----------------------------------------------------------------------------
+
+
+git branch // para mostrar las ramas
+
+git branch nombre-rama// para crear las ramas
+
+git commit -am//este es otra forma de hacer commit si ya el archivo ha sido agregado
+
+para llevar la ueva version desde otra 
+rama a la master debes pararte en la rama master y desde ahi darle
+
+git merge Desarrollo
+
+
+
+
+
