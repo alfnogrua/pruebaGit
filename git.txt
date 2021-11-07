@@ -38,6 +38,10 @@ esc i  pata entrar colocas el comentario y le das
 
 shift zz para salir de esa pantalla
 
+git reset codigoId --hard//para borrar los comit anteriores a donde llegas
+
+git reset codigoId --soft//para borrar pero deja 
+
 
 RAMAS-----------------------------------------------------------------------------
 
