@@ -50,16 +50,15 @@ git branch // para mostrar las ramas
 
 git branch nombre-rama// para crear las ramas
 
-git checkout nombre-rama//para pasar de una rama a otra
-
 git commit -am//este es otra forma de hacer commit si ya el archivo ha sido agregado
 
 para llevar la ueva version desde otra 
 rama a la master debes pararte en la rama master y desde ahi darle
 
-git merge Desarrollo
+git checkout nombre-rama//para cambiar de rama en r
 
-----------------------------------------------------------------------------------
-git -am "otra version "//este se puede hacer cuando ya el archivo existe
+git merge Desarroll
 
---------------------------------------------------------------------------------git che
+
+
+
