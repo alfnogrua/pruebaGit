@@ -27,16 +27,8 @@ git log --online
 git checkout codigo-del-commit
 
 
-
-https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211019_090604-Grabación de la reunión.mp4
-
-https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211020_091357-Grabación de la reunión.mp4
-
-https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211021_090625-Grabación de la reunión.mp4
-
-https://adesaopenshiftsa.blob.core.windows.net/videos/AzureDevops/Azure Devops - DevSecOps-20211022_090904-Grabación de la reunión.mp4
-
-
+-----------------------------------------------------------------------------------
+PUSE STO PA PRUEBAS
 RAMAS-----------------------------------------------------------------------------
 
 
