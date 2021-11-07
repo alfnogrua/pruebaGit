@@ -57,8 +57,11 @@ rama a la master debes pararte en la rama master y desde ahi darle
 
 git checkout nombre-rama//para cambiar de rama en r
 
-git merge Desarroll
+git merge Desarrollo//para llevar o copiar lo que hago en mi etapa desarrollo en
+                     La rama master
 
+
+GIT HUB----------------------------------------------------------------------------
 
 
 
