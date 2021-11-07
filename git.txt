@@ -20,15 +20,25 @@ git add prueba.txt//para el ejemplo si es un proyecto con varios archivos seria-
 
 git commit -m "comentario" para aderir un comit o una version nueva"
 
-git log --online
+git log --online//para ver la informacion de los comits
 
+git log// una informacion mas detallada de los comit
 
+git show// te muestra en detalles los cambios en un commit
 
-git checkout codigo-del-commit
+git checkout codigo-del-commit// este comando es para cambiar entre commit
 
 
 -----------------------------------------------------------------------------------
 PUSE STO PA PRUEBAS
+
+si le das git commit sin colocar -m "comentario" entras a una pagina
+
+esc i  pata entrar colocas el comentario y le das
+
+shift zz para salir de esa pantalla
+
+
 RAMAS-----------------------------------------------------------------------------
 
 
