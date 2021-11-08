@@ -63,5 +63,10 @@ git merge Desarrollo//para llevar o copiar lo que hago en mi etapa desarrollo en
 
 GIT HUB----------------------------------------------------------------------------
 
+git pus //para enviar un repositorio local al remoto
+
+git clone [ruta del proyecto en github]
+
+git pull origin main// para traer los commit del git hub al git local
 
 
