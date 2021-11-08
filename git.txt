@@ -1,4 +1,4 @@
-Azure DevOps Parallelism Request (office.com)                   *
+gitgitAzure DevOps Parallelism Request (office.com)    git               *
                                                                 *  
 git --version                                                   *
                                                                 *
@@ -68,5 +68,19 @@ git pus //para enviar un repositorio local al remoto
 git clone [ruta del proyecto en github]
 
 git pull origin main// para traer los commit del git hub al git local
+----------------------------------------------------------------------------------
+NOTA
+
+git remote -v ///en power shell para ver a donde esta apuntando nuestro repositorio
+
+---------------------------------------------------------------------------------
+
+touch .gitignore// para crear un archivo nuevo en el proyecto
+
+el archivo git ignore es un archivo donde vamos a configurar que archivos quieres que 
+
+no subas al repositorio remoto
+
+-------------------------------------------------------------------------------------
 
 
