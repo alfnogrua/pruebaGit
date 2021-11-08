@@ -23,7 +23,7 @@ git commit -m "comentario" para aderir un comit o una version nueva"
 git log --online//para ver la informacion de los comits
 
 git log// una informacion mas detallada de los comit
-
+push
 git show// te muestra en detalles los cambios en un commit
 
 git checkout codigo-del-commit// este comando es para cambiar entre commit
@@ -68,23 +68,14 @@ git pus //para enviar un repositorio local al remoto
 git clone [ruta del proyecto en github]
 
 git pull origin main// para traer los commit del git hub al git local
-----------------------------------------------------------------------------------
-NOTA
-
-git remote -v ///en power shell para ver a donde esta apuntando nuestro repositorio
-
----------------------------------------------------------------------------------
-
-touch .gitignore// para crear un archivo nuevo en el proyecto
-
-el archivo git ignore es un archivo donde vamos a configurar que archivos quieres que 
-
-no subas al repositorio remoto
-
--------------------------------------------------------------------------------------
-
 
 
 ---------------------------------------------------------------------------------
 
 touch .gitignore// para crear un archivo nuevo en el proyectols
+
+
+$ git tag -a V0.1 -m "Mi primera version estable" b3e8871
+
+$ git show-ref --tag
+d3bdd1fc4564598ddb0a71bd4a3b400d5a74f38a refs/tags/V0.1
