@@ -55,9 +55,13 @@ git commit -am//este es otra forma de hacer commit si ya el archivo ha sido agre
 para llevar la ueva version desde otra 
 rama a la master debes pararte en la rama master y desde ahi darle
 
-git merge Desarrollo
+git checkout nombre-rama//para cambiar de rama en r
+
+git merge Desarrollo//para llevar o copiar lo que hago en mi etapa desarrollo en
+                     La rama master
 
 
+GIT HUB----------------------------------------------------------------------------
 
 
 
