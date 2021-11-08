@@ -1,4 +1,4 @@
-Azure DevOps Parallelism Request (office.com)                   *
+gitAzure DevOps Parallelism Request (office.com)                   *
                                                                 *  
 git --version                                                   *
                                                                 *
@@ -68,4 +68,5 @@ git pus //para enviar un repositorio local al remoto
 git clone [ruta del proyecto en github]
 
 git pull origin main// para traer los commit del git hub al git local
+
 
